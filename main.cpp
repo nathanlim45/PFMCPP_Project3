@@ -53,59 +53,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) electric guitar
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) volume knob
+    2) tone knob
+    3) pickup selection
+    4) string type
+    5) body wood
 3 things it can do:
-    1)
-    2)
-    3)
+    1) adjust volume
+    2) change tone
+    3) give joy
  */
 
 /*
-Thing 2)
+Thing 2) labtop computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) cpu core
+    2) ram size
+    3) color
+    4) monitor inch
+    5) hard disk space
 3 things it can do:
-    1)
-    2)
-    3)
+    1) write program
+    2) watch youtube
+    3) browse internet
  */
 
 /*
-Thing 3)
+Thing 3) house
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of rooms
+    2) number of bathrooms
+    3) number of parking
+    4) property size
+    5) number of floors
 3 things it can do:
-    1)
-    2)
-    3)
+    1) keep you warm
+    2) provide sleeping place
+    3) provide dining place
  */
 
 /*
-Thing 4)
+Thing 4) bass guitar amp
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) wattage of the amp
+    2) number of speakers
+    3) equlizers
+    4) gain control
+    5) tweeter mix
 3 things it can do:
-    1)
-    2)
-    3)
+    1) amplify bass sound
+    2) adjust frequency
+    3) adjust tweeter level
  */
 
 
