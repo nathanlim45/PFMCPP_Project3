@@ -55,8 +55,8 @@ Thing: Car Wash
 /*
 Thing 1) electric guitar
 5 properties:
-    1) volume knob
-    2) tone knob
+    1) volume knob level
+    2) tone knob level
     3) pickup selection
     4) string type
     5) body wood
@@ -67,12 +67,12 @@ Thing 1) electric guitar
  */
 
 /*
-Thing 2) labtop computer
+Thing 2) laptop computer
 5 properties:
-    1) cpu core
+    1) cpu clock speed
     2) ram size
-    3) color
-    4) monitor inch
+    3) brightness level
+    4) number of sound input
     5) hard disk space
 3 things it can do:
     1) write program
@@ -97,15 +97,15 @@ Thing 3) house
 /*
 Thing 4) bass guitar amp
 5 properties:
-    1) wattage of the amp
+    1) master volume level
     2) number of speakers
-    3) equlizers
-    4) gain control
-    5) tweeter mix
+    3) level of bass
+    4) gain level
+    5) tweeter mix level
 3 things it can do:
     1) amplify bass sound
     2) adjust frequency
-    3) adjust tweeter level
+    3) adjust tweeter speaker mix
  */
 
 
