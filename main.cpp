@@ -108,17 +108,17 @@ Thing 4) bass guitar amp
  */
 
 /*
-Thing 10) compressor
+Thing 10) playstation
 5 properties:
-    1) ratio
-    2) attack time
-    3) release time
-    4) makeup gain
-    5) threshold
+    1) main body
+    2) controller
+    3) charger
+    4) application
+    5) game disk
 3 things it can do:
-    1) control dynamic range
-    2) makeup low volume signal
-    3) increase sustain
+    1) play game
+    2) internet search
+    3) watch youtube
  */
 
 /*
