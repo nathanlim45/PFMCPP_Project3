@@ -108,17 +108,17 @@ Thing 4) bass guitar amp
  */
 
 /*
-Thing 10)
+Thing 10) compressor
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) ratio
+    2) attack time
+    3) release time
+    4) makeup gain
+    5) threshold
 3 things it can do:
-    1)
-    2)
-    3)
+    1) control dynamic range
+    2) makeup low volume signal
+    3) increase sustain
  */
 
 /*
