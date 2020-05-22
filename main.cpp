@@ -121,73 +121,73 @@ Thing 4) bass guitar amp
  */
 
 /*
-Thing 5)
+Thing 5) compressor
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) ratio level
+    2) attack time
+    3) release time
+    4) makeup gain level
+    5) on-off switch
 3 things it can do:
-    1)
-    2)
-    3)
+    1) control dynamic range
+    2) makeup low volume signal
+    3) increase sustain
  */
 
 /*
-Thing 6)
+Thing 6) audio interface
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) input gain level
+    2) phantom power switch
+    3) pad on-off switch
+    4) main output level
+    5) headphone output level
 3 things it can do:
-    1)
-    2)
-    3)
+    1) record instrument or voice
+    2) turn sound into digital signal
+    3) do direct monitoring during recording
  */
 
 /*
-Thing 7)
+Thing 7) starbucks coffee
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) cup size
+    2) ice or hot
+    3) number of pumps of syrup
+    4) number of espresso shot
+    5) stay or to go
 3 things it can do:
-    1)
-    2)
-    3)
+    1) customize your coffee
+    2) feel less tired
+    3) increase concentration
  */
 
 /*
-Thing 8)
+Thing 8) github repository
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of commits
+    2) number of contributors
+    3) number of branches
+    4) repository visibility {public, private}
+    5) number of issues
 3 things it can do:
-    1)
-    2)
-    3)
+    1) do code review
+    2) do version control
+    3) track log 
  */
 
 /*
-Thing 9)
+Thing 9) delay pedal
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) output level
+    2) delay type selection
+    3) dry wet mix level
+    4) on off switch
+    5) delay time
 3 things it can do:
-    1)
-    2)
-    3)
+    1) give repeat effect
+    2) change delay type
+    3) mix wet effect signal to original dry signal
  */
 
 /*
